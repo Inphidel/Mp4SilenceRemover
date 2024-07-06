@@ -10,7 +10,6 @@ This Python script removes silent parts from an MP4 video, both video and audio,
 
 ## Requirements
 - Python 3.6 or higher
-- `ffmpeg` (must be installed and added to your system's PATH)
 - Python libraries: `pydub`, `tempfile`
 
 ## Installation
